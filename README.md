@@ -6,6 +6,8 @@
 
 -Home of Xinmapper, a native C++ Windows API (XINPUT lib) Xbox 360 controller to keyboard and mouse input project.
 
+-Weebumconfig, a C# .NET 5.0 gui interface for using FFMPEG to convert video files to the WEBM format in a much easier more user-friendly way.
+
 -HookSpeech, a project made of 3 projects, a C/C++ DLL, a C++/CLI class library around some of it's functions, and a C# GUI project;
 all coming together to allow the user to easily replace their keyboard alphabet with another, on the fly.
 
