@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on: (top of the list) large C++ projects, or a cool .NET API
 - 📫 How to reach me mounteriemachine@hotmail.com or instagram message, ask for cell # for more direct communication.
 
--Home of Xinmapper, a native C++ Windows API (XINPUT lib) Xbox 360 controller to keyboard and mouse input project.
+-Home of XMapLib, a closer to the metal native C++ Windows API (XINPUT lib) Xbox controller to keyboard and mouse input project.
+
+-Xinmapper, a native C++ Windows API (XINPUT lib) Xbox 360 controller to keyboard and mouse input project. [deprecated by XMapLib]
 
 -Weebumconfig, a C# .NET 5.0 gui interface for using FFMPEG to convert video files to the WEBM format in a much easier more user-friendly way.
 
