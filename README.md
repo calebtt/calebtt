@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebtt
 - 👀 I’m interested in Software Engineering (design), CNC Machining, Business, Real Estate, Finance, Crypto
-- 🌱 I’m currently reading C++ Concurrency in Action 2nd ed. : https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition
+- 🌱 I’m currently reading <a href="https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition"> C++ Concurrency in Action 2nd ed.</a>
 - 💞️ I’m looking to collaborate on: (top of the list) large C++ projects, or a cool .NET API
 - 📫 How to reach me mounteriemachine@hotmail.com or instagram message, ask for cell # for more direct communication.
 
