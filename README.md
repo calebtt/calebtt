@@ -5,6 +5,7 @@
 - 📫 How to reach me, email preferred or ask for cell # for more direct communication.
 
 -Home of XMapLib, a closer to the metal native C++ Windows API (XINPUT lib) Xbox controller to keyboard and mouse input project.
+Check out the XmapLib branch thumbbehavior for a C# GUI implementation work in progress.
 
 -Xinmapper, a native C++ Windows API (XINPUT lib) Xbox 360 controller to keyboard and mouse input project. [deprecated by XMapLib]
 
