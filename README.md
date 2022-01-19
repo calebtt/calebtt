@@ -4,15 +4,14 @@
 - 💞️ I’m looking to collaborate on: (top of the list) large C++ projects, or a cool .NET API
 - 📫 How to reach me, email preferred or ask for cell # for more direct communication.
 
--Home of XMapLib, a closer to the metal native C++ Windows API (XINPUT lib) Xbox controller to keyboard and mouse input project.
+-XMapLib, a closer to the metal native C++ Windows API (XINPUT lib) Xbox controller to keyboard and mouse input project.
 Check out the XmapLib branch thumbbehavior for a C# GUI implementation work in progress.
 
 -Xinmapper, a native C++ Windows API (XINPUT lib) Xbox 360 controller to keyboard and mouse input project. [deprecated by XMapLib]
 
 -Weebumconfig, a C# .NET 5.0 gui interface for using FFMPEG to convert video files to the WEBM format in a much easier more user-friendly way.
 
--HookSpeech, a project made of 3 projects, a C/C++ DLL, a C++/CLI class library around some of it's functions, and a C# GUI project;
-all coming together to allow the user to easily replace their keyboard alphabet with another, on the fly.
+-HookSpeech, native C++ using low level Windows API hooks and a C# GUI wrapper all coming together to allow the user to easily replace their keyboard alphabet with another, on the fly.
 
 -AutoRenameEdit.py, a Python app to quickly rename an entire directory of image files with new names drawn from
 a large dictionary file, randomly.
