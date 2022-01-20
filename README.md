@@ -16,8 +16,14 @@ Check out the XmapLib branch thumbbehavior for a C# GUI implementation work in p
 -AutoRenameEdit.py, a Python app to quickly rename an entire directory of image files with new names drawn from
 a large dictionary file, randomly.
 
-
-If only I had started using Github sooner, there would be a lot more projects here!
+**A shortlist of some of the CppCon videos I like most**
+<br>https://www.youtube.com/watch?v=IAdLwUXRUvg
+<br>https://www.youtube.com/watch?v=NH1Tta7purM
+<br>https://www.youtube.com/watch?v=MdrfPSUtMVM
+<br>https://www.youtube.com/watch?v=QZkVpZlbM4U
+<br>https://www.youtube.com/watch?v=_qaKkHuHYE0
+<br>https://www.youtube.com/watch?v=DBcXrJtJaIQ
+<br>If only I had started using Github sooner, there would be a lot more projects here!
 
 <!---
 calebtt/calebtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
