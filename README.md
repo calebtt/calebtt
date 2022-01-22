@@ -19,6 +19,7 @@ a large dictionary file, randomly.
 -MNISTFileLib, a couple handy classes for reading the MNIST AI training data, and a feed forward neural net implementation.
 
 **A shortlist of some of the CppCon videos I like most**
+<br>https://www.youtube.com/watch?v=ZQFzMfHIxng
 <br>https://www.youtube.com/watch?v=IAdLwUXRUvg
 <br>https://www.youtube.com/watch?v=NH1Tta7purM
 <br>https://www.youtube.com/watch?v=MdrfPSUtMVM
