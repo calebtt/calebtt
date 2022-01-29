@@ -26,7 +26,8 @@ a large dictionary file, randomly.
 <br>https://www.youtube.com/watch?v=QZkVpZlbM4U
 <br>https://www.youtube.com/watch?v=_qaKkHuHYE0
 <br>https://www.youtube.com/watch?v=DBcXrJtJaIQ
-<br>If only I had started using Github sooner, there would be a lot more projects here!
+<br>C++ Patterns! https://cpppatterns.com/
+<br>If I had started using Github sooner, there would be a lot more projects here!
 
 <!---
 calebtt/calebtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
