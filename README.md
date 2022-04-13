@@ -9,8 +9,6 @@ Check out the XmapLib branch thumbbehavior for a C# GUI implementation work in p
 
 -Xinmapper, a native C++ Windows API (XINPUT lib) Xbox 360 controller to keyboard and mouse input project. [deprecated by XMapLib]
 
--Weebumconfig, a C# .NET 5.0 gui interface for using FFMPEG to convert video files to the WEBM format in a much easier more user-friendly way.
-
 -HookSpeech, native C++ using low level Windows API hooks and a C# GUI wrapper all coming together to allow the user to easily replace their keyboard alphabet with another, on the fly.
 
 -AutoRenameEdit.py, a Python app to quickly rename an entire directory of image files with new names drawn from
@@ -19,14 +17,7 @@ a large dictionary file, randomly.
 -MNISTFileLib, a couple handy classes for reading the MNIST AI training data, and a feed forward neural net implementation.
 
 **A shortlist of some of the CppCon videos I like most**
-<br>https://www.youtube.com/watch?v=ZQFzMfHIxng
-<br>https://www.youtube.com/watch?v=IAdLwUXRUvg
-<br>https://www.youtube.com/watch?v=NH1Tta7purM
-<br>https://www.youtube.com/watch?v=MdrfPSUtMVM
-<br>https://www.youtube.com/watch?v=QZkVpZlbM4U
-<br>https://www.youtube.com/watch?v=_qaKkHuHYE0
-<br>https://www.youtube.com/watch?v=DBcXrJtJaIQ
-<br>C++ Patterns! https://cpppatterns.com/
+<br>https://pastebin.com/FysxbMQ0
 <br>If I had started using Github sooner, there would be a lot more projects here!
 
 <!---
