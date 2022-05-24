@@ -10,7 +10,7 @@ to adjust the activation temperature for a connected relay. It can be used to tu
 Being fully programmable, it is probably the most flexible solution there is compared to on shelf products.
 
 -XMapLib, a closer to the metal native C++ Windows API (XINPUT lib) Xbox controller to keyboard and mouse input project.
-Check out the XmapLib branch thumbbehavior for a C# GUI implementation work in progress.
+Check out the XmapLib branch radscale-and-threadpoller for a better concurrent poller management class, and updated thumbstick value mapper work in progress.
 
 -HookSpeech, native C++ using low level Windows API hooks and a C# GUI wrapper all coming together to allow the user to easily replace their keyboard alphabet with another, on the fly.
 
