@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @calebtt
-- 👀 I’m interested in Software Engineering (design), CNC Machining, Business, Real Estate, Finance, Crypto
-- 🌱 I’m currently reading about Machine Learning
-- 💞️ I’m looking to collaborate on: (top of the list) C++, C#, or Rust projects.
+- 👀 I’m interested in Software Engineering (design), CNC Machining, Business
+- 🌱 I’m currently reading about Multi-paradigm design in C++
+- 💞️ I’m looking to collaborate on: (top of the list) C++ projects.
 - 📫 How to reach me, email preferred or ask for cell # for more direct communication.
 
 -Temp-humid-sensor-Arduino, an embedded dev project using an Arduino uno wifi rev2 (ATmega4809 8-bit microcontroller), 
@@ -10,7 +10,7 @@ to adjust the activation temperature for a connected relay. It can be used to tu
 Being fully programmable, it is probably the most flexible solution there is compared to on shelf products.
 
 -XMapLib, a closer to the metal native C++ Windows API (XINPUT lib) Xbox controller to keyboard and mouse input project.
-Check out the XmapLib branch radscale-and-threadpoller for a better concurrent poller management class, and updated thumbstick value mapper work in progress.
+Check out the XmapLib branch composability-and-modularity for a better approach wip.
 
 -HookSpeech, native C++ using low level Windows API hooks and a C# GUI wrapper all coming together to allow the user to easily replace their keyboard alphabet with another, on the fly.
 
