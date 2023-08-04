@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calebtt
-- 👀 I’m interested in Software Engineering (design), 3D printing, 3d modeling
+- 👀 I’m interested in Software Engineering (design), 3D printing, 3D modeling
 - 🌱 I’m currently reading about Multi-paradigm design in C++
 - 💞️ I’m looking to collaborate on: Most of my mental energies spent at work (that's a good thing!)
 - 📫 How to reach me, email preferred or ask for cell # for more direct communication.
