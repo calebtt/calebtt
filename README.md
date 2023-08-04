@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @calebtt
-- 👀 I’m interested in Software Engineering (design), CNC Machining, Business
+- 👀 I’m interested in Software Engineering (design), 3D printing, 3d modeling
 - 🌱 I’m currently reading about Multi-paradigm design in C++
-- 💞️ I’m looking to collaborate on: (top of the list) C++ projects.
+- 💞️ I’m looking to collaborate on: Most of my mental energies spent at work (that's a good thing!)
 - 📫 How to reach me, email preferred or ask for cell # for more direct communication.
 
 -Temp-humid-sensor-Arduino, an embedded dev project using an Arduino uno wifi rev2 (ATmega4809 8-bit microcontroller), 
