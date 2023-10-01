@@ -3,7 +3,6 @@
 - 💞️ I’m looking to collaborate on: Most of my mental energies spent at work (that's a good thing!)
 - 📫 How to reach me, email preferred, teams or ask for cell # for more direct communication.
 
-
 -XMapLib_Keyboard, a native C++ controller to keyboard and mouse input project. Described as: Flexible, and Exceptional small library for adding controller input to action mapping.
 
 -HookSpeech, native C++ using low level Windows API hooks and a C# GUI wrapper all coming together to allow the user to easily replace their keyboard alphabet with another, on the fly.
