@@ -1,15 +1,49 @@
-- 👋 Hi, I’m @calebtt
-- 🌱 I’m currently reading about Multi-paradigm design in C++
-- 💞️ I’m looking to collaborate on: Something open source AI/ML related. mdspan coming soon will be a fun tool.
-- 📫 How to reach me, email preferred, teams or ask for cell # for more direct communication.
+# 👋 Hi, I’m @calebtt
 
--StreamToActionTranslator, refactored XMapLib code, highly performant in comparison averaging ~5 microseconds per iteration of the state machine (with filter obj in the pipeline) on my rig. Uses stateful loosely coupled pipeline classes and functions, prefers free functions.
--XMapLib_Keyboard, a native C++ controller to keyboard and mouse input project. Described as: Flexible, and Exceptional small library for adding controller input to action mapping.
--HookSpeech, native C++ using low level Windows API hooks and a C# GUI wrapper all coming together to allow the user to easily replace their keyboard alphabet with another, on the fly.
+- 🌱 Currently diving into *Multi-paradigm Design in C++*
+- 💡 Building two **web-based tech businesses** — more soon as they go live!
+- 🤖 Always down to collaborate on something interesting in **AI/ML**
+- 📫 Best way to reach me: email preferred. Cell available by request for faster back-and-forth. NashDev slack for Nashville local.
 
-**A shortlist of some of the CppCon videos I like most**
-<br>https://pastebin.com/FysxbMQ0
-<br>If I had started using Github sooner, there would be a lot more projects here!
+---
+
+### 🚧 Projects in Progress
+
+- **StreamToActionTranslator**  
+  Refactored `XMapLib` code; highly performant, averaging ~5μs per state machine iteration (with filtering).  
+  Built with **stateful, loosely coupled pipeline classes/functions**. Preference for **free functions** where practical.
+
+- **XMapLib_Keyboard**  
+  A native C++ library that maps **controller input to keyboard/mouse events**.  
+  Described as: *“Flexible and exceptional”* — a compact, powerful input-mapping layer for native apps.
+
+- **HookSpeech**  
+  Low-level Windows API hooks in C++, with a C# GUI wrapper.  
+  Replaces your keyboard alphabet on the fly — dynamic remapping made seamless.
+
+---
+
+### 💻 Two Website-Based Tech Ventures Launching Soon
+I’m working on two online platforms — both are grounded in real-world workflows and automation.  
+Expect a mix of:
+- C++ websockets backends (boost asio, boost beast, ssl websockets)
+- C# ASP.NET REST servers on VPSs, websockets web client
+- Javascript and HTML front-ends
+
+More details (and code) coming soon.
+https://slowdialing.com/
+https://appremotecontrol.com/
+
+---
+
+### 📺 Favorite CppCon Talks  
+Here’s a shortlist of the C++ talks I come back to most:  
+📄 https://pastebin.com/FysxbMQ0
+
+> *If I’d started using GitHub earlier, there’d be a lot more stuff here.*  
+> That said, expect more code, tools, and ideas to show up soon.
+
+---
 
 <!---
 calebtt/calebtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
