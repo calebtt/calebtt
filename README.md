@@ -9,21 +9,25 @@
 
 ### 🚧 Projects in Progress
 
-- **StreamToActionTranslator**  
-  Refactored `XMapLib` code; highly performant, averaging ~5μs per state machine iteration (with filtering).  
-  Built with **stateful, loosely coupled pipeline classes/functions**. Preference for **free functions** where practical.
+1. arc_client
 
-- **XMapLib_Keyboard**  
-  A native C++ library that maps **controller input to keyboard/mouse events**.  
-  Described as: *“Flexible and exceptional”* — a compact, powerful input-mapping layer for native apps.
+The arc_client is a Windows desktop application designed for appremotecontrol.com. Developed in C++17, it leverages Boost libraries like Asio and Beast for SSL-secured WebSocket communications. The client facilitates remote control functionalities by simulating input devices, allowing users to manage their systems remotely. The project utilizes VCPKG for dependency management, ensuring streamlined integration of necessary libraries.
 
-- **HookSpeech**  
-  Low-level Windows API hooks in C++, with a C# GUI wrapper.  
-  Replaces your keyboard alphabet on the fly — dynamic remapping made seamless.
+2. arc_server
+
+Complementing the desktop client, a C++17 intermediate server is under development to handle secure WebSocket connections between clients and controllers. This server manages communication between web client (Web Interface) and desktop client (arc_client). It's built using Boost.Beast and OpenSSL for performant and secure data transmission.​
+
+3. Web Interface
+
+A responsive web interface is also in progress, providing users with an intuitive platform to interact with their devices remotely. The interface includes directional controls and buttons for mouse actions, facilitating comprehensive remote management. Built with modern web technologies, it ensures compatibility across various devices and browsers.​
+
+These projects collectively aim to deliver a cohesive remote control solution, integrating desktop applications, secure servers, and user-friendly web interfaces.
+
+You can check on the progress and test the system live by visiting https://appremotecontrol.com/
 
 ---
 
-### 💻 Two Website-Based Tech Ventures Launching Soon
+### 💻 Two Website-Based Tech Projects Launching Soon
 I’m working on two online platforms — both are grounded in real-world workflows and automation.  
 Expect a mix of:
 - C++ websockets backends (boost asio, boost beast, ssl websockets)
