@@ -21,6 +21,10 @@ Complementing the desktop client, a C++17 intermediate server is under developme
 
 A responsive web interface is also in progress, providing users with an intuitive platform to interact with their devices remotely. The interface includes directional controls and buttons for mouse actions, facilitating comprehensive remote management. Built with modern web technologies, it ensures compatibility across various devices and browsers.​
 
+4. Android App
+
+Play Store app, Kotlin + Android Studio. More featured with a better user xp web interface.
+
 These projects collectively aim to deliver a cohesive remote control solution, integrating desktop applications, secure servers, and user-friendly web interfaces.
 
 You can check on the progress and test the system live by visiting https://appremotecontrol.com/
