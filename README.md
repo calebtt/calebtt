@@ -29,16 +29,13 @@ You can check on the progress and test the system live by visiting https://appre
 
 ---
 
-### 💻 Two Website-Based Tech Projects Launching Soon
-I’m working on two online platforms — both are grounded in real-world workflows and automation.  
+### 💻 AI powered VoIP PBX Based Tech Project Launching Soon
 Expect a mix of:
-- C++ websockets backends (boost asio, boost beast, ssl websockets)
-- C# ASP.NET REST servers on VPSs, websockets web client
+- C# .NET SIP client deployed to VPS handling large call volume
 - Javascript and HTML front-ends
+- Telephone network connectivity (PSTN), callable via cell or landline phone
 
 More details (and code) coming soon.
-
-https://appremotecontrol.com/
 
 ---
 
