@@ -1,8 +1,6 @@
 # 👋 Hi, I’m @calebtt
 
 - 🌱 Currently diving into *Multi-paradigm Design in C++*
-- 💡 Building two **web-based tech projects** — more soon as they go live!
-- 🤖 Always down to collaborate on something interesting in **AI/ML**
 - 📫 Best way to reach me: email preferred. Cell available by request for faster back-and-forth. NashDev slack for Nashville local.
 
 ---
