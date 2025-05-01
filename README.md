@@ -40,8 +40,6 @@ Expect a mix of:
 
 More details (and code) coming soon.
 
-https://slowdialing.com/
-
 https://appremotecontrol.com/
 
 ---
