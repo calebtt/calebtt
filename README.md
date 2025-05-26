@@ -34,6 +34,7 @@ Expect a mix of:
 - C# .NET SIP client deployed to VPS handling large call volume
 - Javascript and HTML front-ends
 - Telephone network connectivity (PSTN), callable via cell or landline phone
+- Public SIP code: https://github.com/calebtt/SipBotLib
 
 More details (and code) coming soon.
 
