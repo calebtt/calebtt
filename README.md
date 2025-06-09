@@ -27,6 +27,9 @@ These projects collectively aim to deliver a cohesive remote control solution, i
 
 You can check on the progress and test the system live by visiting https://appremotecontrol.com/
 
+Notes:
+1. I am in the process of moving the intermediate server (arc_server) that relays commands to either self hosting or a cheaper VPS, it may be unavailable for a while.
+
 ---
 
 ### 💻 AI powered VoIP PBX Based Tech Project Launching Soon
@@ -37,6 +40,11 @@ Expect a mix of:
 - Public SIP code: https://github.com/calebtt/SipBotLib
 
 More details (and code) coming soon.
+
+Notes:
+1. PSTN Number to dial is 1-615-899-3270
+2. The VAD (Voice Activity Detection), NS (Noise Suppression), and AEC (Acoustic Echo Cancellation) isn't (yet) perfect and is causing some ghost transcriptions if you have it on speaker with background noise.
+3. Availability depends on whether or not it's running on my desktop rig at the moment.
 
 ---
 
