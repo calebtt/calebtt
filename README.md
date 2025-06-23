@@ -45,6 +45,7 @@ Notes:
 1. PSTN Number to dial is 1-615-899-3270
 2. The VAD (Voice Activity Detection), NS (Noise Suppression), and AEC (Acoustic Echo Cancellation) isn't (yet) perfect and is causing some ghost transcriptions if you have it on speaker with background noise.
 3. Availability depends on whether or not it's running on my desktop rig at the moment.
+4. VAD, AEC, and NS changes/additions are being tested.
 
 ---
 
