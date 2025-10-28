@@ -5,7 +5,7 @@
 
 ---
 
-### 💻 AI powered VoIP PBX Based Tech Project
+### 💻 AI powered VoIP PBX Based Tech Project SipBotOpen
 - C# .NET SIP client voice agent
 - Telephone network connectivity (PSTN), callable via cell or landline phone
 
