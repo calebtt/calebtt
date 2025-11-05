@@ -11,7 +11,7 @@
 
 Notes:
 1. PSTN Number to dial is 1-615-899-3280
-2. The Silero onnx model based VAD (Voice Activity Detection) project is not (yet) a suitable replacement for the WebRtcVadSharp nuget package.
+2. The cross-platform ONNX Silero model based VAD (Voice Activity Detection) project MinimalSileroVad is a suitable replacement for the Windows-only WebRtcVadSharp nuget package.
 3. VAD, AEC, and NS changes/additions are being tested.
 
 ---
