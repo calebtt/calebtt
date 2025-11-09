@@ -36,9 +36,6 @@ These are my latest C# repos, emphasizing minimal, efficient libraries for speec
   ![C++](https://img.shields.io/badge/-C%2B%2B-blue)  
   C++23 CMake project for translating input streams to actionable function calls. Experimental fun with streams and actions.
 
-## Talks & Inspirations
-Some of my favorite [CppCon talks](https://pastebin.com/raw/xyz123) that keep me sharp. Planning to dive deeper into C# async patterns next—stay tuned!
-
 More code, tools, and experiments coming soon. Contributions welcome—fork away! 🚀
 
 ---
