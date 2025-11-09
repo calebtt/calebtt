@@ -17,7 +17,7 @@ These are my latest C# repos, emphasizing minimal, efficient libraries for speec
 
 - **[MinimalVoiceAgent](https://github.com/calebtt/MinimalVoiceAgent)**  
   ![C#](https://img.shields.io/badge/-C%23-brightgreen)  
-  A lightweight voice agent framework with tool calling, local TTS/STT, and Grok API integration. Build conversational AI without the bloat—ideal for prototypes or embedded systems.
+  A lightweight voice agent framework with tool calling, local TTS/STT, and Grok API integration. Build conversational AI without the bloat—ideal for prototypes or local setups.
 
 - **[SipBotOpen](https://github.com/calebtt/SipBotOpen)** *(Highlighted Project)*  
   ![C#](https://img.shields.io/badge/-C%23-brightgreen)  
