@@ -49,4 +49,7 @@ These are my latest C# repos, emphasizing minimal, efficient libraries for speec
 - [StreamToActionTranslator](https://github.com/calebtt/StreamToActionTranslator)  
   C++23 CMake project for translating input streams to actionable function calls. Experimental fun with streams and actions.
 
+- [youtube_skip_button_fine_tuned_yolo](https://github.com/calebtt/youtube_skip_button_fine_tuned_yolo)
+  Yolo v11 model fine-tuning scripts for youtube "skip ad" button detection with high-performance inference and excellent accuracy.
+
 More code, tools, and experiments coming soon. Contributions welcome—fork away!
