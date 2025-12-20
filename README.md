@@ -2,9 +2,9 @@
 
 🌱 Currently diving into Multi-paradigm Design in C++
 
-📫 Best way to reach me: Email preferred. Cell available by request for faster back-and-forth. NashDev Slack for Nashville locals.
+📫 Best way to reach me: Email preferred. Cell available by request for faster back-and-forth. NashDev Slack
 
-📍 Nashville, TN – Always up for coffee chats on .NET, C++, or building AI agents.
+📍 Nashville, TN
 
 I'm a software engineer passionate about low-level systems, AI-driven tools, and cross-platform libraries. Lately, I've been building C#/.NET components for voice processing, speaker diarization, and intelligent agents, alongside some model fine-tuning. Check out my recent work below!
 
