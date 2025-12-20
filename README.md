@@ -53,3 +53,5 @@ These are my latest C# repos, emphasizing minimal, efficient libraries for speec
   Yolo v11 model fine-tuning scripts for youtube "skip ad" button detection with high-performance inference and excellent accuracy.
 
 More code, tools, and experiments coming soon. Contributions welcome—fork away!
+
+HF: https://huggingface.co/calebt9990
