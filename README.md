@@ -6,7 +6,7 @@
 
 📍 Nashville, TN
 
-I'm a software engineer passionate about low-level systems, AI-driven tools, and cross-platform libraries. Lately, I've been building C#/.NET components for voice processing, speaker diarization, and intelligent agents, alongside some model fine-tuning. Check out my recent work below!
+I'm a software engineer doing low-level systems, AI-driven tools, and cross-platform libraries. Lately, I've been building C#/.NET components for voice processing, and intelligent agents, alongside some model fine-tuning. Check out my recent work below!
 
 ## Spotlight Project: MinimalTextClassifier
 
