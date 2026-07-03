@@ -36,7 +36,7 @@ These are my latest C# repos, emphasizing minimal, efficient libraries for speec
   A lightweight voice agent framework with tool calling, local TTS/STT, and Grok API integration. Build conversational AI without the bloat—ideal for prototypes or local setups.
 
 - [SipBotOpen](https://github.com/calebtt/SipBotOpen) (Highlighted Project)  
-  Open-source telephone voice assistant with tool calling and PSTN connectivity. Dial it live at 1-615-899-3280! Uses SIP client in C# .NET for VoIP PBX magic. Currently testing VAD, AEC, and noise suppression.
+  Open-source telephone voice assistant with tool calling and PSTN connectivity. Uses SIP client in C# .NET for VoIP PBX magic. Currently testing VAD, AEC, and noise suppression.
 
 - [MinimalDiarization](https://github.com/calebtt/MinimalDiarization)  
   .NET library for AI-powered speaker diarization via ONNX runtime. Includes experimental intent preprocessing for command discrimination in noisy, multi-speaker scenarios—great for voice agents.
