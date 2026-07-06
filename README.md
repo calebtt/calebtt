@@ -1,8 +1,7 @@
 # Hi there! I'm Caleb
 
-🌱 Currently diving into Multi-paradigm Design in C++
 
-📫 Best way to reach me: Email preferred. Cell available by request for faster back-and-forth. NashDev Slack
+📫 Best way to reach me: Email preferred. Cell available by request for faster back-and-forth.
 
 📍 Nashville, TN
 
