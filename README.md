@@ -1,7 +1,7 @@
 # Hi there! I'm Caleb
 
 
-Best way to reach me: Email preferred. Cell available by request for faster back-and-forth.
+Best way to reach me: Email
 
 Nashville, TN
 
