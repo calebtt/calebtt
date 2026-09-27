@@ -1,56 +1,32 @@
-# Hi there! I'm Caleb
+# Hi, I'm Caleb
 
+Software engineer in Nashville, TN, writing C#/.NET, C++, and Python. I mostly build small, focused libraries and the tools on top of them.
 
-Best way to reach me: Email
+Right now I'm working on voice agents that use a real phone line: SIP telephony, speech detection, echo cancellation, and the pieces that let an AI agent place and answer calls.
 
-Nashville, TN
+## Voice agents and telephony
 
-I'm a software engineer doing low-level systems, AI-driven tools, and cross-platform libraries. Lately, I've been building C#/.NET components for voice processing, and intelligent agents, alongside some model fine-tuning. Check out my recent work below!
+- **[pbx-voice](https://github.com/calebtt/pbx-voice)**: a daemon that places phone calls for AI agents through your own SIP PBX. It handles wake-up alarms, spoken messages, and short goal-driven conversations, and agents request calls over MCP.
+- **[SipBotLib](https://github.com/calebtt/SipBotLib)**: a headless SIP library for .NET, built on SIPSorcery, with a `sipbot` CLI for agents. It can register, answer, dial, transfer, send DTMF, and stream PCM audio.
+- **[SipBotOpen](https://github.com/calebtt/SipBotOpen)**: a voice agent that answers incoming calls as a PBX extension. It runs speech-to-text and text-to-speech locally and uses an LLM with tool calling.
+- **[MinimalSileroVad](https://github.com/calebtt/MinimalSileroVad)**: voice activity detection and speech segmentation for .NET, using the Silero VAD model (V4 and V5) on ONNX Runtime. It works with 8 kHz and 16 kHz audio.
+- **[clean-speech](https://github.com/calebtt/clean-speech)**: a Linux microphone cleanup daemon. It cancels echo from system playback, suppresses noise, gates on speech, and publishes the result as a virtual microphone.
+- **[MinimalDiarization](https://github.com/calebtt/MinimalDiarization)**: speaker diarization for .NET on ONNX Runtime, with experimental preprocessing for picking out voice commands in noisy rooms.
+- **[MinimalVoiceAgent](https://github.com/calebtt/MinimalVoiceAgent)**: a minimal voice agent with tool calling, local speech-to-text and text-to-speech, and Grok over the xAI API.
 
-## Spotlight Project: MinimalTextClassifier
+## Model fine-tuning and inference
 
-I'm excited to highlight my latest model fine-tuning work: **[MinimalTextClassifier](https://github.com/calebtt/MinimalTextClassifier)**!
+- **[MinimalTextClassifier](https://github.com/calebtt/MinimalTextClassifier)**: a binary text classifier for .NET on ONNX Runtime, with Python scripts for fine-tuning DeBERTa on your own data.
+- **[youtube_skip_button_fine_tuned_yolo](https://github.com/calebtt/youtube_skip_button_fine_tuned_yolo)**: a fine-tuned YOLO11 model that detects YouTube "Skip ad" buttons, plus the data collection and training scripts.
 
-This is a minimal .NET ONNX-based binary text classifier with Python fine-tuning support, powered by the Deberta transformer model. It's designed for efficient text classification tasks, bridging Python for model training/fine-tuning and .NET for lightweight, cross-platform inference via ONNX Runtime.
+Models are published on [Hugging Face](https://huggingface.co/calebt9990).
 
-### Key Features:
-- **Fine-Tuning Support**: Use Python scripts to fine-tune Deberta on your custom datasets for binary classification (e.g., sentiment analysis, spam detection).
-- **ONNX Integration**: Export models to ONNX for seamless deployment in .NET environments—fast, portable, and no heavy dependencies.
-- **Minimalist Design**: Focuses on simplicity and performance, making it easy to integrate into apps or pipelines without bloat.
-- **Cross-Platform**: Runs on Windows, Linux, macOS via .NET.
-- **Example Use Cases**: Custom text classifiers for smart home devices (Alina, what time is it?), content moderation, or data processing tools.
+## C++
 
-If you're into AI model optimization or need a quick way to deploy fine-tuned transformers in production, check it out! Contributions welcome—let's collaborate on expanding it to multi-class or more advanced scenarios.
+- **[XMapLib](https://github.com/calebtt/XMapLib)**: maps Xbox controller input to keyboard and mouse input on Windows, with rebindable keys and adjustable mouse sensitivity.
+- **[impcool_sol](https://github.com/calebtt/impcool_sol)**: a thread pool for long-running tasks that uses immutability to keep the implementation simple.
+- **[StreamToActionTranslator](https://github.com/calebtt/StreamToActionTranslator)**: the XMapLib keyboard core as a C++23 CMake library that turns an input stream into function calls, with unit tests.
 
-## Other Featured Projects
+## Contact
 
-### Voice AI & Telephony Tools (Recent C# Focus)
-
-These are my latest C# repos, emphasizing minimal, efficient libraries for speech detection, diarization, and agentic workflows. They're battle-tested in noisy environments and utilize AI models like Silero VAD, ecapa-tdnn, whisper, and phi3.
-
-- [MinimalSileroVad](https://github.com/calebtt/MinimalSileroVad)  
-  Cross-platform .NET library for VAD (Voice Activity Detection) and speech segmentation using the Silero VAD model. Replaces WebRtcVadSharp—faster and more accurate for real-time apps.
-
-- [MinimalVoiceAgent](https://github.com/calebtt/MinimalVoiceAgent)  
-  A lightweight voice agent framework with tool calling, local TTS/STT, and Grok API integration. Build conversational AI without the bloat—ideal for prototypes or local setups.
-
-- [SipBotOpen](https://github.com/calebtt/SipBotOpen) (Highlighted Project)  
-  Open-source telephone voice assistant with tool calling and PSTN connectivity. Uses SIP client in C# .NET for VoIP PBX magic. Currently testing VAD, AEC, and noise suppression.
-
-- [MinimalDiarization](https://github.com/calebtt/MinimalDiarization)  
-  .NET library for AI-powered speaker diarization via ONNX runtime. Includes experimental intent preprocessing for command discrimination in noisy, multi-speaker scenarios—great for voice agents.
-
-### Other Highlights
-
-- [XMapLib](https://github.com/calebtt/XMapLib)  
-  Low-level C++ library for mapping Xbox controller inputs to keyboard/mouse. Closer to the metal for gaming/input hacks.
-
-- [StreamToActionTranslator](https://github.com/calebtt/StreamToActionTranslator)  
-  C++23 CMake project for translating input streams to actionable function calls. Experimental fun with streams and actions.
-
-- [youtube_skip_button_fine_tuned_yolo](https://github.com/calebtt/youtube_skip_button_fine_tuned_yolo)
-  Yolo v11 model fine-tuning scripts for youtube "skip ad" button detection with high-performance inference and excellent accuracy.
-
-More code, tools, and experiments coming soon. Contributions welcome—fork away!
-
-HF: https://huggingface.co/calebt9990
+Email is the best way to reach me.
